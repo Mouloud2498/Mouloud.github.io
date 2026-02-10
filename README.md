@@ -115,14 +115,4 @@ Exemple d’affichage :
 
 ---
 
-## 8) Comment exécuter (Reproductibilité)
 
-### Prérequis
-- Docker Desktop installé
-- Git installé (optionnel)
-- Python 3 (pour générer le dataset)
-
-### 1) Cloner le repo
-```bash
-git clone [À REMPLACER_PAR_TON_URL]
-cd [NOM_DU_REPO]
